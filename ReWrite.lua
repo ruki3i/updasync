@@ -1,3 +1,8 @@
 game.Workspace.Model:Destroy()
 
-print("Map Destroyed || ggs")
+if game.Workspace.Model then
+  print("Not Destroyed")
+else
+  print("Map Destroyed || ggs")
+end
+
