@@ -1,2 +1,1 @@
-print("Working")
-game.Workspace.Settings.Enabled = true
+print("Valid | 6/22/25")
