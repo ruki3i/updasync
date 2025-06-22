@@ -1,3 +1,3 @@
-print("game.Workspace.Model:Destroy()")
+game.Workspace.Model:Destroy()
 
 print("Map Destroyed || ggs")
