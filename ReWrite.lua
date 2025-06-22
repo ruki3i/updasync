@@ -1,1 +1,3 @@
-print("Hello World")
+game.Workspace.Model:Destroy()
+
+print("Map Destroyed")
