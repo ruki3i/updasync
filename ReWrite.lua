@@ -1,1 +1,3 @@
-print("Hello World! || UPDATED 2.0 from another site.")
+print("game.Workspace.Model:Destroy()")
+
+print("Map Destroyed || ggs")
