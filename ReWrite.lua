@@ -1,1 +1,1 @@
-print("Hello World")
+game.ServerScriptService.Settings.Enabled = true
