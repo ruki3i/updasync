@@ -1,1 +1,1 @@
-game.Workspace.Model:Destroy()
+print("Hello world")
