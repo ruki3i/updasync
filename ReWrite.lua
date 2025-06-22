@@ -1,2 +1,2 @@
 print("Working")
-game.ServerScriptService.Settings.Enabled = true
+game.Workspace.Settings.Enabled = true
